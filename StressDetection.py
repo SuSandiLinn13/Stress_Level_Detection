@@ -45,7 +45,7 @@ def set_png_as_header(png_file):
     st.markdown(custom_html, unsafe_allow_html=True)
     return
 
-set_png_as_page_bg('Saxon-bg.png')
+set_png_as_page_bg('img/Saxon-bg.png')
 #set_png_as_header('Cover.png')
 
 
